@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
    CEK SALDO
 ===================== */
 function goCek() {
-  window.open("https://s.shopee.co.id/2qOzivk5Cp", "_blank");   /* ===GANTI # DENGAN LINK DI ANTARA "dan"==== */
+  window.open("https://www.effectivegatecpm.com/p7zze4ybr?key=87ff26962a860e9f4f9b86622e38ad7d", "_blank");   /* ===GANTI # DENGAN LINK DI ANTARA "dan"==== */
 }
 
 /* =====================
@@ -104,4 +104,5 @@ function playSuccessCheck() {
     path: "https://assets5.lottiefiles.com/packages/lf20_xlkxtmul.json"
   });
 }
+
 
